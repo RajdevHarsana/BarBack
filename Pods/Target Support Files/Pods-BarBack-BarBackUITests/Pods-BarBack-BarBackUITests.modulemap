@@ -1,0 +1,6 @@
+framework module Pods_BarBack_BarBackUITests {
+  umbrella header "Pods-BarBack-BarBackUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
